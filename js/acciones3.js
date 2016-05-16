@@ -2,7 +2,7 @@
 
 $(document).ready(function (e){
 	document .addEventListener("deviceready",function(){
-	
+		
 $('#beep').tap(function (){
 	navigator .notification.beep (1);
 });//tap beep
