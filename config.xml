@@ -7,10 +7,10 @@
 		 
     <!--versionCode is Optional And Android Only-->
 		 
-	<name>App8 Swipe con la Pantalla</name>
+	<name>Acciones</name>
 		 
 	<description>
-	    Aplicacion que desliza la pantalla hacia la derecha e izquierda
+	    Aplicacion que hace todas las Acciones
 	</description>
 		  
 	<preference name="phonegap-version" value="3.1.0" />
